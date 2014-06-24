@@ -1,0 +1,92 @@
+Sat Jun 21 23:27:29 CDT 2014, Ambient Temperature (°C): 32.53125
+Sat Jun 21 23:27:29 CDT 2014, Object Temperature (°C): 20.604195775690698
+Sat Jun 21 23:27:30 CDT 2014, Relative Humidity (%RH): 29.32463836669922
+Sat Jun 21 23:27:30 CDT 2014, Acceleration, X:Y:Z (g): -0.015625, -1.0, -1.984375
+Sat Jun 21 23:27:30 CDT 2014, Ambient Temperature (°C): 32.5
+Sat Jun 21 23:27:30 CDT 2014, Object Temperature (°C): 22.53021884188456
+Sat Jun 21 23:27:31 CDT 2014, Orientation, X:Y:Z (deg/s): -164.04724, 99.28894, -215.39307
+Sat Jun 21 23:27:31 CDT 2014, Relative Humidity (%RH): 29.202564239501953
+Sat Jun 21 23:27:31 CDT 2014, Acceleration, X:Y:Z (g): 0.0625, -1.1875, -0.65625
+Sat Jun 21 23:27:31 CDT 2014, Ambient Temperature (°C): 32.46875
+Sat Jun 21 23:27:31 CDT 2014, Object Temperature (°C): 20.717300346350214
+Sat Jun 21 23:27:32 CDT 2014, Orientation, X:Y:Z (deg/s): -193.34412, 214.79797, -24.795532
+Sat Jun 21 23:27:32 CDT 2014, Relative Humidity (%RH): 28.958419799804688
+Sat Jun 21 23:27:32 CDT 2014, Acceleration, X:Y:Z (g): 0.203125, -0.796875, -1.1875
+Sat Jun 21 23:27:32 CDT 2014, Ambient Temperature (°C): 32.40625
+Sat Jun 21 23:27:32 CDT 2014, Object Temperature (°C): 16.790920976928078
+Sat Jun 21 23:27:33 CDT 2014, Orientation, X:Y:Z (deg/s): 78.10211, 16.670227, 112.38861
+Sat Jun 21 23:27:33 CDT 2014, Relative Humidity (%RH): 28.431983947753906
+Sat Jun 21 23:27:33 CDT 2014, Acceleration, X:Y:Z (g): 0.125, -0.125, -1.734375
+Sat Jun 21 23:27:33 CDT 2014, Ambient Temperature (°C): 32.34375
+Sat Jun 21 23:27:33 CDT 2014, Object Temperature (°C): 17.020979348926573
+Sat Jun 21 23:27:34 CDT 2014, Orientation, X:Y:Z (deg/s): -250.0, 102.36359, 1.8310547
+Sat Jun 21 23:27:34 CDT 2014, Relative Humidity (%RH): 28.19546890258789
+Sat Jun 21 23:27:34 CDT 2014, Acceleration, X:Y:Z (g): -0.625, -0.390625, -0.109375
+Sat Jun 21 23:27:34 CDT 2014, Ambient Temperature (°C): 32.25
+Sat Jun 21 23:27:34 CDT 2014, Object Temperature (°C): 42.669538094315726
+Sat Jun 21 23:27:35 CDT 2014, Orientation, X:Y:Z (deg/s): -9.567261, 39.604187, -16.685486
+Sat Jun 21 23:27:35 CDT 2014, Relative Humidity (%RH): 28.11154556274414
+Sat Jun 21 23:27:35 CDT 2014, Acceleration, X:Y:Z (g): 0.703125, -0.859375, -0.328125
+Sat Jun 21 23:27:35 CDT 2014, Ambient Temperature (°C): 32.3125
+Sat Jun 21 23:27:35 CDT 2014, Object Temperature (°C): 33.78527654105608
+Sat Jun 21 23:27:36 CDT 2014, Orientation, X:Y:Z (deg/s): -148.19336, -36.39984, 233.078
+Sat Jun 21 23:27:36 CDT 2014, Relative Humidity (%RH): 28.11154556274414
+Sat Jun 21 23:27:36 CDT 2014, Acceleration, X:Y:Z (g): 0.5625, -0.40625, -0.34375
+Sat Jun 21 23:27:36 CDT 2014, Ambient Temperature (°C): 32.28125
+Sat Jun 21 23:27:36 CDT 2014, Object Temperature (°C): 41.48560541816505
+Sat Jun 21 23:27:37 CDT 2014, Orientation, X:Y:Z (deg/s): -101.46332, 78.62854, -203.5904
+Sat Jun 21 23:27:37 CDT 2014, Relative Humidity (%RH): 28.035247802734375
+Sat Jun 21 23:27:37 CDT 2014, Acceleration, X:Y:Z (g): 0.78125, -1.296875, -1.109375
+Sat Jun 21 23:27:37 CDT 2014, Ambient Temperature (°C): 32.28125
+Sat Jun 21 23:27:37 CDT 2014, Object Temperature (°C): 23.93628630782166
+Sat Jun 21 23:27:38 CDT 2014, Orientation, X:Y:Z (deg/s): -250.0, 38.45215, -47.14966
+Sat Jun 21 23:27:38 CDT 2014, Acceleration, X:Y:Z (g): 0.5, -1.046875, -0.875
+Sat Jun 21 23:27:38 CDT 2014, Relative Humidity (%RH): 27.913177490234375
+Sat Jun 21 23:27:38 CDT 2014, Ambient Temperature (°C): 32.25
+Sat Jun 21 23:27:38 CDT 2014, Object Temperature (°C): 36.058020543102145
+Sat Jun 21 23:27:39 CDT 2014, Orientation, X:Y:Z (deg/s): -201.5686, -178.82538, -30.586243
+Sat Jun 21 23:27:39 CDT 2014, Acceleration, X:Y:Z (g): -0.046875, -0.03125, -1.109375
+Sat Jun 21 23:27:39 CDT 2014, Relative Humidity (%RH): 27.66903305053711
+Sat Jun 21 23:27:39 CDT 2014, Ambient Temperature (°C): 32.21875
+Sat Jun 21 23:27:39 CDT 2014, Object Temperature (°C): 17.226971767028658
+Sat Jun 21 23:27:40 CDT 2014, Orientation, X:Y:Z (deg/s): -157.76062, 157.82928, 5.6915283
+Sat Jun 21 23:27:40 CDT 2014, Acceleration, X:Y:Z (g): 0.5625, -0.703125, -0.015625
+Sat Jun 21 23:27:40 CDT 2014, Ambient Temperature (°C): 32.1875
+Sat Jun 21 23:27:40 CDT 2014, Object Temperature (°C): 36.92456111077769
+Sat Jun 21 23:27:40 CDT 2014, Relative Humidity (%RH): 27.59273910522461
+Sat Jun 21 23:27:41 CDT 2014, Orientation, X:Y:Z (deg/s): -224.46442, 37.384033, 137.75635
+Sat Jun 21 23:27:41 CDT 2014, Acceleration, X:Y:Z (g): 0.125, -0.390625, -0.265625
+Sat Jun 21 23:27:41 CDT 2014, Ambient Temperature (°C): 32.0625
+Sat Jun 21 23:27:41 CDT 2014, Object Temperature (°C): -10.098873927487432
+Sat Jun 21 23:27:41 CDT 2014, Relative Humidity (%RH): 27.508811950683594
+Sat Jun 21 23:27:42 CDT 2014, Orientation, X:Y:Z (deg/s): 29.846191, 77.32391, -250.0
+Sat Jun 21 23:27:42 CDT 2014, Acceleration, X:Y:Z (g): 0.109375, -0.53125, 0.578125
+Sat Jun 21 23:27:42 CDT 2014, Ambient Temperature (°C): 32.0625
+Sat Jun 21 23:27:42 CDT 2014, Object Temperature (°C): 10.889691435232407
+Sat Jun 21 23:27:43 CDT 2014, Relative Humidity (%RH): 27.478294372558594
+Sat Jun 21 23:27:43 CDT 2014, Orientation, X:Y:Z (deg/s): -69.252014, 23.42987, -250.0
+Sat Jun 21 23:27:43 CDT 2014, Acceleration, X:Y:Z (g): -0.296875, -0.65625, 0.609375
+Sat Jun 21 23:27:43 CDT 2014, Ambient Temperature (°C): 32.03125
+Sat Jun 21 23:27:43 CDT 2014, Object Temperature (°C): 24.06120234495495
+Sat Jun 21 23:27:44 CDT 2014, Relative Humidity (%RH): 27.478294372558594
+Sat Jun 21 23:27:44 CDT 2014, Orientation, X:Y:Z (deg/s): 166.2445, -249.99237, -230.78156
+Sat Jun 21 23:27:44 CDT 2014, Acceleration, X:Y:Z (g): -0.125, -1.140625, -0.328125
+Sat Jun 21 23:27:44 CDT 2014, Ambient Temperature (°C): 32.0625
+Sat Jun 21 23:27:44 CDT 2014, Object Temperature (°C): 22.75007976615518
+Sat Jun 21 23:27:45 CDT 2014, Relative Humidity (%RH): 27.478294372558594
+Sat Jun 21 23:27:45 CDT 2014, Orientation, X:Y:Z (deg/s): 56.991577, 161.18622, -32.74536
+Sat Jun 21 23:27:45 CDT 2014, Acceleration, X:Y:Z (g): -0.078125, -1.15625, -0.015625
+Sat Jun 21 23:27:45 CDT 2014, Ambient Temperature (°C): 32.125
+Sat Jun 21 23:27:45 CDT 2014, Object Temperature (°C): 18.976307390317174
+Sat Jun 21 23:27:46 CDT 2014, Orientation, X:Y:Z (deg/s): -3.2424927, -0.6866455, -0.8773804
+Sat Jun 21 23:27:46 CDT 2014, Relative Humidity (%RH): 27.63851547241211
+Sat Jun 21 23:27:46 CDT 2014, Acceleration, X:Y:Z (g): 0.03125, -1.0, -0.0625
+Sat Jun 21 23:27:46 CDT 2014, Ambient Temperature (°C): 32.15625
+Sat Jun 21 23:27:46 CDT 2014, Object Temperature (°C): 19.428884445794324
+Sat Jun 21 23:27:47 CDT 2014, Orientation, X:Y:Z (deg/s): 0.5340576, -0.015258789, -0.9841919
+Sat Jun 21 23:27:47 CDT 2014, Relative Humidity (%RH): 27.79873275756836
+Sat Jun 21 23:27:47 CDT 2014, Acceleration, X:Y:Z (g): 0.015625, -1.0, -0.0625
+Sat Jun 21 23:27:47 CDT 2014, Ambient Temperature (°C): 32.1875
+Sat Jun 21 23:27:47 CDT 2014, Object Temperature (°C): 20.58874106847577
+Sat Jun 21 23:27:48 CDT 2014, Orientation, X:Y:Z (deg/s): 0.7171631, -0.32043457, -1.5258789
+Sat Jun 21 23:27:48 CDT 2014, Relative Humidity (%RH): 27.920806884765625
